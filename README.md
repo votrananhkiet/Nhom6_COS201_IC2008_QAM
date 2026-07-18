@@ -1,7 +1,9 @@
-Block Diagram
+### Block Diagram
 <img width="2560" height="867" alt="BlockDiagram" src="https://github.com/user-attachments/assets/4e1bc5e9-d470-4226-8471-9052e7d34f2c" />
-Flowchart
+
+### Flowchart
 <img width="779" height="2940" alt="QAMFlowchart" src="https://github.com/user-attachments/assets/79229d14-8ed2-4f5b-b39e-2477e62f5fd6" />
+
 ### 1. File `qam_lut_design.sv`
 
 | Tên Tín Hiệu | Hướng (Direction) | Độ rộng Bit | Định dạng số | Chức năng & Mô tả chi tiết |
