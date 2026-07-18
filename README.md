@@ -1,4 +1,8 @@
-#Nhom2_COS201_IC2008_QAM
+## Project Details
+
+* **Group**: Group 6
+* **Course**: COS201 - IC2008
+* **Topic**: FPGA-based QAM Modulator Accelerator
 
 ## Overview
 This project focuses on the research, design, and hardware optimization of a **16-QAM Modulator** implemented on an FPGA platform. The system evaluates and compares two primary carrier generation techniques: **Look-Up Table (LUT)** and the **CORDIC algorithm**, analyzing the trade-offs between memory utilization, logic resource consumption, and signal accuracy.
@@ -35,12 +39,6 @@ Nhom6_COS201_IC2008_QAM/
 1. **Algorithm Simulation**: Run the notebooks in `colab/` to verify mathematical models and fixed-point precision.
 2. **RTL Verification**: Load the SystemVerilog files in `verilog/` into Vivado, ModelSim, or EDA Playground. Compare simulated output waveforms against reference figures in `figures/` (Radix set to Signed Decimal).
 3. **Documentation**: Refer to `report/QAM_Final_Report.pdf` for full theoretical derivations and design methodologies.
-
-## Project Details
-
-* **Group**: Group 6
-* **Course**: COS201 - IC2008
-* **Topic**: FPGA-based QAM Modulator Accelerator
 
 ```
 
