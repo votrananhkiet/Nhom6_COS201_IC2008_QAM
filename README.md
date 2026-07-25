@@ -4,7 +4,7 @@
 ### Flowchart
 <img width="779" height="2940" alt="QAMFlowchart" src="https://github.com/user-attachments/assets/79229d14-8ed2-4f5b-b39e-2477e62f5fd6" />
 
-###Pipelined Architect
+### Pipelined RTL Architect
 <img width="1111" height="565" alt="PipelinedRTLArchitect" src="https://github.com/user-attachments/assets/33d4e602-5797-4df7-a673-de2dd862bdc0" />
 
 
