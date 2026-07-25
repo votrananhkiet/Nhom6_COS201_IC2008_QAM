@@ -4,7 +4,7 @@
 ### Flowchart
 <img width="779" height="2940" alt="QAMFlowchart" src="https://github.com/user-attachments/assets/79229d14-8ed2-4f5b-b39e-2477e62f5fd6" />
 
-### 1. File `qam_lut_full_top.v` (Top Module LUT 16-QAM Modulator)
+### 1. File `qam_lut_full_top.v`
 
 | Tên Tín Hiệu | Hướng (Direction) | Độ rộng Bit | Định dạng số | Chức năng & Mô tả chi tiết |
 | :--- | :---: | :---: | :---: | :--- |
@@ -22,7 +22,7 @@
 
 ---
 
-### 2. File `qam_lut_full_top.sdc` (File Ràng buộc Thời gian - LUT)
+### 2. File `qam_lut_full_top.sdc`
 
 | Tham số / Ràng buộc | Đối tượng tác động | Chu kỳ / Tần số | Lệnh SDC Syntax | Chức năng & Mục đích thiết lập Timing Constraint |
 | :--- | :---: | :---: | :---: | :--- |
@@ -30,7 +30,7 @@
 
 ---
 
-### 3. File `quartus_cordic.v` (Top Module CORDIC 8-Stage Pipelined 16-QAM Modulator)
+### 3. File `quartus_cordic.v`
 
 | Tên Tín Hiệu | Hướng (Direction) | Độ rộng Bit | Định dạng số | Chức năng & Mô tả chi tiết |
 | :--- | :---: | :---: | :---: | :--- |
@@ -47,7 +47,7 @@
 
 ---
 
-### 4. File `quartus_cordic.v.bak` (File Backup Kiến trúc CORDIC Sơ khai)
+### 4. File `quartus_cordic.v.bak`
 
 | Tên Tín Hiệu / Thành phần | Phân loại | Độ rộng Bit | Định dạng số | Chức năng & Mô tả chi tiết |
 | :--- | :---: | :---: | :---: | :--- |
@@ -60,7 +60,7 @@
 
 ---
 
-### 5. File `qam_cordic_full_top.sdc` (File Ràng buộc Thời gian - CORDIC)
+### 5. File `qam_cordic_full_top.sdc`
 
 | Tham số / Ràng buộc | Đối tượng tác động | Chu kỳ / Tần số | Lệnh SDC Syntax | Chức năng & Mục đích thiết lập Timing Constraint |
 | :--- | :---: | :---: | :---: | :--- |
